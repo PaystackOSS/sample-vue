@@ -71,7 +71,7 @@ export default {
       amount: 0,
       full_name: '',
       email: '',
-      PUBLIC_KEY: "pk_test_72dec37c547bfd309db001900a71e97bea6458bf"
+      PUBLIC_KEY: "YOUR_PAYSTACK_PUBLIC_KEY"
     };
   }
 };
